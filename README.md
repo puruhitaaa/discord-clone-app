@@ -8,6 +8,8 @@ REACT_APP_FIREBASE_STORAGE_BUCKET = your-storage-bucket-here
 REACT_APP_FIREBASE_SENDER_ID = your-sender-id-here
 REACT_APP_FIREBASE_APP_ID = your-app-id-here`
 
+you can then replace the invalid values with your own Firebase Config.
+
 ## Firebase Auth with Google
 
 After setting up the environment variables, you need to setup an authentication on Firebase console, then you can go ahead and enable the Google authentication provider.
