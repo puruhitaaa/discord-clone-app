@@ -1,12 +1,12 @@
 ## Get started with the Discord Clone App
 
 To get started with the app, create a .env file on the root folder to declare our so-called environtment variables by typing down the following:
-REACT_APP_FIREBASE_API_KEY = your-key-here
+`REACT_APP_FIREBASE_API_KEY = your-key-here
 REACT_APP_FIREBASE_AUTH_DOMAIN = your-auth-domain-here
 REACT_APP_FIREBASE_PROJECT_ID = your-project-id-here
 REACT_APP_FIREBASE_STORAGE_BUCKET = your-storage-bucket-here
 REACT_APP_FIREBASE_SENDER_ID = your-sender-id-here
-REACT_APP_FIREBASE_APP_ID = your-app-id-here
+REACT_APP_FIREBASE_APP_ID = your-app-id-here`
 
 ## Firebase Auth with Google
 
