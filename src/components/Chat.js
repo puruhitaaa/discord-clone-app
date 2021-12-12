@@ -12,7 +12,7 @@ import '../styles/Chat.css';
 import ChatHeader from './ChatHeader';
 import Message from './Message';
 
-import db from '../app/firebase';
+import db from '../firebase';
 import { selectUser } from '../slice/userSlice';
 import { selectChannelId, selectChannelName } from '../slice/appSlice';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from '@material-ui/core';
-import { auth, provider } from '../app/firebase';
+import { auth, provider } from '../firebase';
 import '../styles/Login.css';
 
 function Login() {
@@ -12,7 +12,7 @@ function Login() {
     <div className="login">
       <div className="login__logo">
         <img
-          src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/1200px-Discord_logo.svg.png"
+          src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"
           alt="discord-logo"
         />
       </div>

@@ -6,7 +6,7 @@ import Sidebar from './components/Sidebar';
 import Chat from './components/Chat';
 import Login from './components/Login';
 
-import { auth } from './app/firebase';
+import { auth } from './firebase';
 import { login, logout, selectUser } from './slice/userSlice';
 
 function App() {

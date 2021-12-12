@@ -15,7 +15,7 @@ import {
 
 import SidebarChannel from '../components/SidebarChannel';
 
-import db, { auth } from '../app/firebase';
+import db, { auth } from '../firebase';
 import { selectUser } from '../slice/userSlice';
 
 function Sidebar() {
